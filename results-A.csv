@@ -1,37 +1,37 @@
-version,N,time (s)
-Python,100, 0.22
-Python,200, 0.88
-Python,300, 1.97
-Python,500, 5.43
-Python,700, 8.09
-Python,1000,18.83
-Python,1500,33.83
-Python,2000,60.06
-Python,2500,93.87
-Python,3000,135.20
-Python,3500,183.87
-Python,4000,239.51
-Python,4500,303.35
-Python,5000,25467.10
-Python,5500,458.02
-Python,6000,544.41
-Python,6500,644.10
-Python,7000,741.41
-Cython,100, 0.00
-Cython,200, 0.01
-Cython,300, 0.02
-Cython,500, 0.06
-Cython,700, 0.13
-Cython,1000, 0.26
-Cython,1500, 0.57
-Cython,2000, 1.00
-Cython,2500, 1.59
-Cython,3000, 2.19
-Cython,3500, 3.11
-Cython,4000, 3.95
-Cython,4500, 5.16
-Cython,5000, 6.67
-Cython,5500, 7.68
-Cython,6000, 9.42
-Cython,6500,10.69
-Cython,7000,12.38
+Node,version,N,time (s)
+A,Python,100,2.85
+A,Python,200,2.19
+A,Python,300,1.1
+A,Python,500,2.36
+A,Python,700,5.02
+A,Python,1000,15.76
+A,Python,1500,30.76
+A,Python,2000,56.99
+A,Python,2500,90.8
+A,Python,3000,132.13
+A,Python,3500,180.8
+A,Python,4000,236.44
+A,Python,4500,300.28
+A,Python,5000,25464.03
+A,Python,5500,454.95
+A,Python,6000,541.34
+A,Python,6500,641.03
+A,Python,7000,738.34
+A,Cython,100,0.21
+A,Cython,200,0.2
+A,Cython,300,0.19
+A,Cython,500,0.15
+A,Cython,700,0.08
+A,Cython,1000,0.05
+A,Cython,1500,0.36
+A,Cython,2000,0.79
+A,Cython,2500,1.38
+A,Cython,3000,1.98
+A,Cython,3500,2.9
+A,Cython,4000,3.74
+A,Cython,4500,4.95
+A,Cython,5000,6.46
+A,Cython,5500,7.47
+A,Cython,6000,9.21
+A,Cython,6500,10.48
+A,Cython,7000,12.17
